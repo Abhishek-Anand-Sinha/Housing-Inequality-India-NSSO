@@ -1,19 +1,15 @@
 # Housing Inequality in India: Socio-Religious Determinants of Access to Good Housing
 
-**Course:** Advanced Training in Large-Scale Survey – NSS, NFHS and PLFS  
-**Programme:** MA in Public Policy and Governance (2025–27)  
-**Institution:** School of Public Policy and Governance, Tata Institute of Social Sciences, Hyderabad
-
 ---
 
 ## Authors
 
-| Name | Roll Number |
-|---|---|
-| Abhishek Anand Sinha | H2025PPG001 |
-| Anoushka Purohit | H2025PPG002 |
-| Chaitanya Dandale | H2025PPG003 |
-| Durga Sreedevi PR | H2025PPG005 |
+| Name |
+|---|
+| Abhishek Anand Sinha |
+| Anoushka Purohit |
+| Chaitanya Dandale |
+| Durga Sreedevi PR |
 
 ---
 
