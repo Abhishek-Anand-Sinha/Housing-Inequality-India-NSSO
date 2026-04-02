@@ -4,12 +4,7 @@
 
 ## Authors
 
-| Name |
-|---|
-| Abhishek Anand Sinha |
-| Anoushka Purohit |
-| Chaitanya Dandale |
-| Durga Sreedevi PR |
+Abhishek Anand Sinha, Anoushka Purohit, Chaitanya Dandale & Durga Sreedevi PR
 
 ---
 
