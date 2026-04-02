@@ -15,15 +15,4 @@ Regression output tables and cross-tabulations exported from Stata, saved as `.p
 | `table1_5_mean_tenurial.png` | Table 1.5 — Mean Condition by Religion, Social Group, Tenurial Status |
 | `table1_6_mean_tenurial_detail.png` | Table 1.6 — Mean Condition (continued) |
 
-## `graphs/`
-Visualisations exported from Stata.
-
-| File | Description |
-|---|---|
-| `graph1_2_intersectional_inequalities.png` | Graph 1.2 — Intersectional inequalities in housing |
-| `graph1_3_gender_condition.png` | Graph 1.3 — Housing condition by gender |
-| `graph1_5_mean_tenurial.png` | Graph 1.5 — Mean condition by tenurial and social/religious group |
-
 ---
-
-> To regenerate all outputs, run `code/housing_analysis.do` after placing the NSSO data in `data/` as described in `data/README_data.md`.
