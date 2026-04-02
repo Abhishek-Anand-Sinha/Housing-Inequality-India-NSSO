@@ -87,32 +87,6 @@ All results are statistically significant at p < 0.05 (p = 0.000).
 
 ---
 
-## Repository Structure
-
-```
-housing-inequality-india/
-│
-├── README.md
-├── .gitignore
-├── LICENSE
-│
-├── code/
-│   └── housing_analysis.do        ← Stata do file for full analysis
-│
-├── data/
-│   ├── README_data.md             ← How to access and prepare the NSSO data
-│   └── codebook.md                ← Variable definitions and coding scheme
-│
-├── outputs/
-│   ├── tables/                    ← Regression and cross-tab output tables
-│   └── graphs/                    ← All visualisations
-│
-└── report/
-    └── Housing_Inequality_Report.docx
-```
-
----
-
 ## How to Reproduce the Analysis
 
 1. Download the NSSO 76th Round data from MoSPI (see `data/README_data.md`)
